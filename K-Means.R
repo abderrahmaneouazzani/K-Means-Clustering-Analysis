@@ -14,7 +14,7 @@ library(ggfortify)
 
 # Reading the data #
 
-data<-read.csv("places2.csv")
+data<-read.csv("places.csv")
 
 # K-Means #
 
